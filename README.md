@@ -1,4 +1,4 @@
-# ELECTRIC-MOBILITY-TREND-ANALYSIS
+# ELECTRIC-MOBILITY-TREND-ANALYSIS (WASHINGTON)
 A data-driven analysis of electric vehicle adoption trends across Washington State, examining yearly growth, city-wise distribution, vehicle types, and charging infrastructure to understand the state’s rapid shift toward sustainable transportation.
 
 > **Tools:** Power BI | Excel | DAX | Power Query | Data Modeling  
